@@ -36,7 +36,7 @@ td.rightcell div.codeblock {
 td.leftcell {
 	padding-right: 10px;
 	padding-top: 10px;
-	width: 50%;
+	width: calc(50%+15px);
 }
 
 td.rightcell {
@@ -44,7 +44,7 @@ td.rightcell {
 	padding-left: 5px;
 	vertical-align: baseline;
 	padding-right: 10px;
-	width: 50%;
+	width: calc(50%+15px);
 	padding-bottom: 1em;
 }
 
