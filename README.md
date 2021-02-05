@@ -1,2 +1,4 @@
-# guan-group.github.io
-This is the academic website of guan-group, welvome to visit to it!
+# Welcome to visit the academic website of guan-group!
+The address of the website is www.guan-group.com.
+
+
